@@ -1,0 +1,7 @@
+.card{
+  border: solid 5px rgba(214, 112, 23, 0.881);
+}
+
+.card-body{
+  padding-bottom: 5vh;
+}
